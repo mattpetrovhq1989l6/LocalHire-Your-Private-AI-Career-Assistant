@@ -61,6 +61,7 @@ Works great with major European platforms:
 3. Extract the files using any archiver (WinRAR / 7-Zip)
    - **Password:** `LocalHire`
 4. Open the extracted folder and run the setup file to install the application
+The app will be available at http://localhost:3000 after starting.
 
 
 
