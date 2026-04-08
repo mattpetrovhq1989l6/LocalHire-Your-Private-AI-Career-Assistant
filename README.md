@@ -68,9 +68,10 @@ The app will be available at http://localhost:3000 after starting.
 
 ## Tech Stack
 
-- **Frontend**: Next.js 15 (App Router) + React 19 + TypeScript
-- **UI**: Tailwind CSS + Shadcn/ui
-- **AI**: Ollama (local-first) with provider fallback support
+- **Backend**: Python (FastAPI)
+- **Frontend**: React / Next.js (optional)
+- **UI**: Tailwind CSS
+- **AI**: Ollama (local-first) with fallback providers
 - **Database**: SQLite / PostgreSQL
 
 ## Roadmap
