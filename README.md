@@ -21,7 +21,7 @@ Upload your master resume once. For every new job posting, get:
 - Smart keyword suggestions tailored to the job
 - Intelligently rewritten bullet points that highlight your real achievements
 - Multiple tailored resume versions saved automatically
-
+ 
 ### ✉️ Professional Cover Letter Generator
 Create natural, compelling cover letters that naturally reference specific requirements from the job description.  
 Easily adjust tone, length, and emphasis to match your personal style.
