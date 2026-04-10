@@ -1,4 +1,4 @@
-# LocalHire — Your Private AI Career Assistant for Europe
+# LocalHire — Your Private AI Career Assistant for Europe 
  
 **The fully self-hosted, privacy-first AI career tool built for the European job market.**
  
