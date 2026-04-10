@@ -6,7 +6,7 @@ Tired of paying €10–€30 every month for Teal, Huntr or Jobscan?
 Tired of sending your personal career data to cloud services?
  
 **LocalHire** gives you a powerful AI career assistant that runs completely on your own computer — 100% free, private, and designed for Europe.
- 
+  
 ## About LocalHire
  
 LocalHire is an open-source, local-first AI platform that helps professionals across Europe optimize their resumes, write strong cover letters, track job applications, and gain valuable career insights — without sharing any sensitive data with third parties.
