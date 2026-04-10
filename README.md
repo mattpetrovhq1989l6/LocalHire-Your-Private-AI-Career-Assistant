@@ -10,7 +10,7 @@ Tired of sending your personal career data to cloud services?
 ## About LocalHire
  
 LocalHire is an open-source, local-first AI platform that helps professionals across Europe optimize their resumes, write strong cover letters, track job applications, and gain valuable career insights — without sharing any sensitive data with third parties.
-
+ 
 Whether you're looking for opportunities in Berlin, Amsterdam, Paris, Barcelona, Warsaw or working remotely across the EU, LocalHire helps you present your best self while keeping full control over your information.
 
 ## ✨ Core Features
