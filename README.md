@@ -14,7 +14,7 @@ LocalHire is an open-source, local-first AI platform that helps professionals ac
 Whether you're looking for opportunities in Berlin, Amsterdam, Paris, Barcelona, Warsaw or working remotely across the EU, LocalHire helps you present your best self while keeping full control over your information.
 
 ## ✨ Core Features
-
+ 
 ### 📄 Smart ATS Resume Optimizer
 Upload your master resume once. For every new job posting, get:
 - Instant ATS compatibility score
