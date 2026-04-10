@@ -1,5 +1,5 @@
 # LocalHire — Your Private AI Career Assistant for Europe
-
+ 
 **The fully self-hosted, privacy-first AI career tool built for the European job market.**
  
 Tired of paying €10–€30 every month for Teal, Huntr or Jobscan?  
